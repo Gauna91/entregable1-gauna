@@ -1,5 +1,9 @@
-//const productos = ["almacen", "chocolates", "fiambreria", "bebidas", "helados"]
-//console.log(productos)
+
+let nombre = prompt ("ingrese su nombre")
+let edad = parseInt(prompt ("ingrese su edad"))
+alert("bievenido a la previa almacen y bebidas")
+console.log("mi nombre es " +nombre+ " y tengo " +edad)
+
 
 
 const producto1 = {
